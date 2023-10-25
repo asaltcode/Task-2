@@ -1,0 +1,12 @@
+1. Write a blog on Difference between document and window objects.
+
+ Document object:
+	* Loaded into the window
+	* Its purpose is only for web pages
+	* Various properties of the DOM can be returned or obtained by using the Document object.
+
+ Window object:
+	* this is Loaded in browser
+	* May extend to a browser's information beyond the current document.
+	* We cannot use window objects using document objects.
+
